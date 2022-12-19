@@ -1,0 +1,3 @@
+[submodule "allmotionservo"]
+	path = allmotionservo
+	url = https://github.com/ejlenferink/allmotionservo
